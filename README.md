@@ -20,15 +20,17 @@ I build structured, scalable web applications and enjoy turning real-world probl
 ## 🛠️ Skills & Technologies
 
 ### 💻 Programming Languages
-- PHP  
-- JavaScript  
-- HTML5  
-- CSS3  
+
+![PHP](https://img.shields.io/badge/PHP-90%25-777BB4?style=for-the-badge&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-90%25-FF2D20?style=for-the-badge&logo=laravel)
+![MySQL](https://img.shields.io/badge/MySQL-85%25-4479A1?style=for-the-badge&logo=mysql)
+![JavaScript](https://img.shields.io/badge/JavaScript-75%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-95%25-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-85%25-1572B6?style=for-the-badge&logo=css3) 
 
 ### 🧰 Frameworks & Libraries
-- Laravel  
-- Bootstrap  
-- jQuery  
+
+![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,bootstrap,git,github,linux,vscode)
 
 ### 🗄️ Databases
 - MySQL  
