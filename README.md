@@ -70,10 +70,6 @@ Some project categories I have worked on:
 
 👉 Visit my repositories to explore source code and features.
 
----
-
-## 🌐 Social Media & Contact
-
 ## 🌐 Social Media & Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-MDSHAHIDAHAMED-black?logo=github&logoColor=white)](https://github.com/MDSHAHIDAHAMED)
