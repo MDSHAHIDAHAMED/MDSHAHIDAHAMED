@@ -35,6 +35,15 @@ I build structured, scalable web applications and enjoy turning real-world probl
 ### 🗄️ Databases
 - MySQL  
 
+## 📊 GitHub Contribution Overview
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MDSHAHIDAHAMED&show_icons=true&theme=tokyonight&count_private=true)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MDSHAHIDAHAMED&theme=tokyonight)
+
+
 ### ⚙️ Tools & Platforms
 - Git & GitHub  
 - VS Code  
