@@ -74,11 +74,14 @@ Some project categories I have worked on:
 
 ## 🌐 Social Media & Contact
 
-- 💼 GitHub: [https://github.com/MDSHAHIDAHAMED](https://github.com/MDSHAHIDAHAMED)
-- 📘 Facebook: https://facebook.com/your-profile
-- 🔗 LinkedIn: https://linkedin.com/in/your-profile
-- 🐦 Twitter (X): https://twitter.com/your-profile
-- 📧 Email: yourname@email.com
+## 🌐 Social Media & Contact
+
+[![GitHub](https://img.shields.io/badge/GitHub-MDSHAHIDAHAMED-black?logo=github&logoColor=white)](https://github.com/MDSHAHIDAHAMED)
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?logo=facebook&logoColor=white)](https://facebook.com/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-Profile-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:yourname@email.com)
+
 
 *(Replace links with your real profiles)*
 
