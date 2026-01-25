@@ -35,14 +35,16 @@ I build structured, scalable web applications and enjoy turning real-world probl
 ### 🗄️ Databases
 - MySQL  
 
-## 📊 GitHub Contribution Overview
+## 📈 My GitHub History
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MDSHAHIDAHAMED&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MDSHAHIDAHAMED&theme=github-dark&hide_border=true)
 
-## 🔥 GitHub Streak
+## 🐍 Contribution Snake Animation
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MDSHAHIDAHAMED&theme=tokyonight)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MDSHAHIDAHAMED/MDSHAHIDAHAMED/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="GitHub Contribution Snake" src="https://github.com/MDSHAHIDAHAMED/MDSHAHIDAHAMED/blob/output/github-contribution-grid-snake.svg">
+</picture>
 
 ### ⚙️ Tools & Platforms
 - Git & GitHub  
